@@ -1,0 +1,11 @@
+review,sentiment,confidence
+I love this phone. Amazing camera.,positive,0.9869
+Battery backup is very poor.,negative,0.9128
+Excellent display and performance.,positive,0.9735
+Worst customer service ever.,negative,0.9424
+Delivery was late but product is good.,positive,0.9065
+Samsung Galaxy has great features.,positive,0.9824
+Apple iPhone is expensive.,negative,0.7502
+The laptop is slow.,negative,0.8162
+Very happy with the purchase.,positive,0.9831
+Not worth the money.,negative,0.7573

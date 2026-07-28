@@ -1,0 +1,14 @@
+pandas
+numpy
+nltk
+spacy
+transformers
+torch
+scikit-learn
+streamlit
+fastapi
+uvicorn
+matplotlib
+plotly
+wordcloud
+sentence-transformers
